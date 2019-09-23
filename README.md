@@ -1,14 +1,13 @@
-# TodoTotem
-
-##Desenvolvido por
-
-Morettic LTDA <https://morettic.com.br>
-
-##LANDING PAGE AÇÃO PROMOCIONAL
+# LANDING PAGE AÇÃO PROMOCIONAL 
 
 Projeto de landing page promocional para ação da empresa Todototem
 
-##Estrutura
+## Desenvolvido por
+
+Morettic LTDA <https://morettic.com.br>
+
+
+## Estrutura
 
 1) Slider
 2) Crie os mesmos conteúdos que as celebridades e influencers.
@@ -17,7 +16,7 @@ Projeto de landing page promocional para ação da empresa Todototem
 5) Cta Contrate Agora
 6) Form pipefy 
 
-#Pendências
+## Pendências
 
 1) Video Youtube
 2) CTA Ajustes e definição do tipo de conversão. WHatsapp?
