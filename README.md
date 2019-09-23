@@ -23,4 +23,12 @@ Morettic LTDA <https://morettic.com.br>
 3) Falta um depoimento e fotos (3)
 4) É sucesso em faltam as fotos destaque
 
+## Template Base utilizado no projeto
+
+Theme Name: Bootslander
+Theme URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
+Author: BootstrapMade.com
+Author URL: https://bootstrapmade.com
+
+
 
